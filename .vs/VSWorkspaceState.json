@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\WebAPI",
+    "\\src\\WebAPI\\Models",
+    "\\src\\Workbench.Comparer",
+    "\\src\\Workbench.Comparer\\obj",
+    "\\src\\Workbench.Comparer\\obj\\Debug",
+    "\\src\\Workbench.Comparer\\obj\\Debug\\netcoreapp3.1",
+    "\\src\\Workbench.IDistributedCache.Extensions",
+    "\\src\\Workbench.Linq.Extensions.Tests"
+  ],
+  "SelectedNode": "\\src\\Workbench.IFormatter.Extensions",
+  "PreviewInSolutionExplorer": false
+}
